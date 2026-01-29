@@ -204,9 +204,9 @@
     },
     {
       "id": "archipelago",
-      "lat": -6,
+      "lat": 1,
       "lng": -5,
-      "size": 2.2,
+      "size": 1.8,
       "dotradius": 0,
       "color": "#202124",
       "text": "archipelago",
