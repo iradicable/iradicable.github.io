@@ -7,7 +7,7 @@
       "size": 2,
       "dotradius": 1,
       "color": "#000000",
-      "text": "0,0",
+      "text": "0,0 <br> test \n test /n test",
       "rotation": 0
     },
     {
@@ -296,7 +296,7 @@
     },
     {
       "id": "ostra",
-      "lat": 71,
+      "lat": 70,
       "lng": 38,
       "size": 1,
       "dotradius": 0.2,
@@ -306,8 +306,8 @@
     },
     {
       "id": "rotmouth",
-      "lat": 71,
-      "lng": 53,
+      "lat": 71.5,
+      "lng": 47,
       "size": 1,
       "dotradius": 0.2,
       "color": "#202124",
