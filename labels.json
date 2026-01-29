@@ -388,6 +388,17 @@
       "rotation": "0"
     },
     {
+      "id": "c1",
+      "lat": -18,
+      "lng": -82,
+      "size": 1,
+      "dotradius": 0.2,
+      "dotorientation": "top",
+      "color": "#D8D0C1",
+      "text": "C1",
+      "rotation": "0"
+    },
+    {
       "id": "ryereach",
       "lat": 18,
       "lng": -80,
