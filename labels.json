@@ -6,7 +6,6 @@
       "lng": 0,
       "size": 2,
       "dotradius": 1,
-      "dotorientation": "top",
       "color": "#000000",
       "text": "0,0",
       "rotation": 0
@@ -17,7 +16,6 @@
       "lng": 180,
       "size": 2,
       "dotradius": 1,
-      "dotorientation": "right",
       "color": "#000000",
       "text": "0,180",
       "rotation": 0
@@ -292,7 +290,6 @@
       "lng": 64,
       "size": 1.7,
       "dotradius": 0.5,
-      "dotorientation": "right",
       "color": "#202124",
       "text": "Grungarom",
       "rotation": "0"
@@ -313,6 +310,7 @@
       "lng": 47,
       "size": 1,
       "dotradius": 0.2,
+      "dotorientation": "right",
       "color": "#202124",
       "text": "Rotmouth",
       "rotation": "0"
