@@ -287,11 +287,31 @@
     {
       "id": "grungarom",
       "lat": 72,
-      "lng": 54,
+      "lng": 56,
       "size": 1.7,
       "dotradius": 0.5,
       "color": "#202124",
       "text": "Grungarom",
+      "rotation": "0"
+    },
+    {
+      "id": "ostra",
+      "lat": 70,
+      "lng": 48,
+      "size": 1,
+      "dotradius": 0.2,
+      "color": "#D8D0C1",
+      "text": "Ostra",
+      "rotation": "0"
+    },
+    {
+      "id": "rotmouth",
+      "lat": 71,
+      "lng": 53,
+      "size": 1,
+      "dotradius": 0.2,
+      "color": "#202124",
+      "text": "Rotmouth",
       "rotation": "0"
     },
     {
