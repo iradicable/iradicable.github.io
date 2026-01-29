@@ -84,11 +84,11 @@
   "nations": [
     {
       "id": "sanctuary",
-      "lat": 46.5,
+      "lat": 45.5,
       "lng": 14.7,
       "size": 1.5,
-      "dotradius": 0.1,
-      "dotorientation": "bottom",
+      "dotradius": 0.15,
+      "dotorientation": "top",
       "color": "#202124",
       "text": "Sanctuary",
       "rotation": "0"
