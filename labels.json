@@ -17,6 +17,7 @@
       "lng": 180,
       "size": 2,
       "dotradius": 1,
+      "dotorientation": "right",
       "color": "#000000",
       "text": "0,180",
       "rotation": 0
