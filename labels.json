@@ -291,7 +291,7 @@
       "size": 1.7,
       "dotradius": 0.5,
       "color": "#202124",
-      "text": "Grungarom",
+      "text": "      \t Grungarom",
       "rotation": "0"
     },
     {
@@ -401,7 +401,7 @@
       "size": 1,
       "dotradius": 0.2,
       "color": "#D8D0C1",
-      "text": "Crigpob \n    •",
+      "text": "Crigpob",
       "rotation": "0"
     }
   ],
