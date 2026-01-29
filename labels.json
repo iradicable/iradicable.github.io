@@ -86,8 +86,9 @@
       "id": "sanctuary",
       "lat": 46.5,
       "lng": 14.7,
-      "size": 1,
+      "size": 1.5,
       "dotradius": 0,
+      "dotorientation": "bottom",
       "color": "#202124",
       "text": "Sanctuary",
       "rotation": "0"
@@ -348,7 +349,7 @@
     },
     {
       "id": "the-verge",
-      "lat": 44,
+      "lat": 43.5,
       "lng": 15,
       "size": 1,
       "dotradius": 0.2,
