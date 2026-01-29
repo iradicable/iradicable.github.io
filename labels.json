@@ -6,6 +6,7 @@
       "lng": 0,
       "size": 2,
       "dotradius": 1,
+      "dotorientation": 'bottom',
       "color": "#000000",
       "text": "0,0",
       "rotation": 0
