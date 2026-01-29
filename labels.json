@@ -87,7 +87,7 @@
       "lat": 46.5,
       "lng": 14.7,
       "size": 1.5,
-      "dotradius": 0,
+      "dotradius": 0.1,
       "dotorientation": "bottom",
       "color": "#202124",
       "text": "Sanctuary",
