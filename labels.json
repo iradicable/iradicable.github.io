@@ -7,7 +7,7 @@
       "size": 2,
       "dotradius": 1,
       "color": "#000000",
-      "text": "0,0 <br> test \n test /n test",
+      "text": "0,0",
       "rotation": 0
     },
     {
@@ -401,7 +401,7 @@
       "size": 1,
       "dotradius": 0.2,
       "color": "#D8D0C1",
-      "text": "• Crigpob",
+      "text": "• Crigpob \n   •",
       "rotation": "0"
     }
   ],
