@@ -310,7 +310,7 @@
       "lng": 47,
       "size": 1,
       "dotradius": 0.2,
-      "dotorientation": "right",
+      "dotorientation": "left",
       "color": "#202124",
       "text": "Rotmouth",
       "rotation": "0"
