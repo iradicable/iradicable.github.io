@@ -22,4 +22,5 @@ things to maybe add or change / ask james if it's possible :^)
     - having the option to make the gap between dot & text smaller would also work
     - for some reason certain things like the expanse don't seem to have a clickable spot on or around
         - alternatively i'm stupid which is always a possible answer
+        - labelincludedot? is that anything
 - finding coordinates by clicking on the globe or whatever, anything that's easier than trial and error
