@@ -329,8 +329,8 @@
     },
     {
       "id": "tvelsk",
-      "lat": 8,
-      "lng": 95,
+      "lat": 5,
+      "lng": 85,
       "size": 1.7,
       "dotradius": 0.5,
       "color": "#D8D0C1",
