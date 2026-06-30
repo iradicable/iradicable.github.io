@@ -419,13 +419,13 @@
       "rotation": "0"
     },
     {
-      "id": "Kewgrove",
+      "id": "kewgrove",
       "lat": 17,
-      "lng": 750,
+      "lng": 75,
       "size": 1,
       "dotradius": 0.2,
       "color": "#D8D0C1",
-      "text": "Ryereach",
+      "text": "Kewgrove",
       "rotation": "0"
     }
   ],
