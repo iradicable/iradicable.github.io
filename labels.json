@@ -417,6 +417,16 @@
       "color": "#D8D0C1",
       "text": "Crigpob",
       "rotation": "0"
+    },
+    {
+      "id": "Kewgrove",
+      "lat": 17,
+      "lng": 750,
+      "size": 1,
+      "dotradius": 0.2,
+      "color": "#D8D0C1",
+      "text": "Ryereach",
+      "rotation": "0"
     }
   ],
   "geography": [
