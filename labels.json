@@ -552,8 +552,8 @@
     },
     {
       "id": "bulwark-range",
-      "lat": 35,
-      "lng": -100,
+      "lat": 77,
+      "lng": 54.4,
       "size": 1.3,
       "dotradius": 0,
       "color": "#3A3531",
@@ -562,13 +562,13 @@
     },
     {
       "id": "icecrowned-alps",
-      "lat": 77,
-      "lng": 54.4,
+      "lat": 35,
+      "lng": -100,
       "size": 1.3,
       "dotradius": 0,
       "color": "#3A3531",
       "text": "Icecrowned Alps",
-      "rotation": "-30"
+      "rotation": "-20"
     },
     {
       "id": "the-wastes",
