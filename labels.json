@@ -124,6 +124,16 @@
       "rotation": "0"
     },
     {
+      "id": "x",
+      "lat": -40,
+      "lng": 48,
+      "size": 2.2,
+      "dotradius": 0,
+      "color": "#202124",
+      "text": "Vri'r'alak",
+      "rotation": "0"
+    },
+    {
       "id": "kingdom-of-ubera",
       "lat": 44,
       "lng": -95,
