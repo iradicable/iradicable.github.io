@@ -593,8 +593,8 @@
     },
     {
       "id": "the-wastes",
-      "lat": 99,
-      "lng": 50,
+      "lat": 89,
+      "lng": 1,
       "size": 2,
       "dotradius": 0,
       "color": "#202124",
