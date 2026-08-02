@@ -6,6 +6,7 @@
       "lng": 0,
       "size": 2,
       "dotradius": 1,
+      "includedot": "false", 
       "color": "#000000",
       "text": "0,0",
       "rotation": 0
@@ -231,7 +232,6 @@
       "lng": 40.1,
       "size": 1.7,
       "dotradius": 0.5,
-      "includedot": "false", 
       "color": "#D8D0C1",
       "text": "Koslaborg",
       "rotation": "0"
