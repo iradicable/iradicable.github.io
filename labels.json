@@ -446,7 +446,7 @@
       "lat": 7,
       "lng": 204,
       "size": 1.5,
-      "dotradius": 0,
+      "dotradius": 1,
       "color": "#E9ECF5",
       "text": "The Expanse",
       "rotation": "0"
